@@ -1,0 +1,67 @@
+body{
+    background-color:grey;
+  }
+  .container{
+     background-image:url("http://wallpapercave.com/wp/EPjdonr.jpg");
+    text-align:center;
+    border:10px;
+    border-style:groove;
+    padding: 100px 100px 100px 100px;
+    margin-top:20px;
+    color:white;
+  }
+  h1{
+    position:relative;
+    bottom:80px;
+  }
+  
+  #choices{
+    background-image:url('http://7-themes.com/data_images/collection/3/4443457-cool-backgrounds.png');
+    border-style:ridge;
+    position:relative;
+    bottom:50px;
+    max-width: 900px;
+    margin: auto;
+   
+  }
+  
+  .btn1{
+    color: white;
+    font-weight: 900px;
+    font-size: 40px;
+  }
+  
+  .btn2{
+    width:60px;
+    margin-bottom:90px;
+    margin-right:70px;
+    position:relative;
+    left:250px;
+    top:40px;
+    
+    }
+  
+  .btn3{
+   width:60px;
+   margin-right:70px; 
+    position:relative;
+    right:153px;
+    top:60px;
+  }
+  .btn4{
+    margin-right:70px;
+    margin-top:90px;
+    position:relative;
+    left:49px;
+      width:60px;
+    bottom:40px
+    
+  }
+  
+  span{
+    margin: 20px
+  }
+  
+  
+  
+  
